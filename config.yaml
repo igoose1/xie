@@ -1,0 +1,40 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "xie"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:slug/"
+  post: "/post/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+      #    - name: Categories
+      #      url: "categories/"
+      #      weight: 3
+    - name: Tags
+      url: "tags/"
+      weight: 4
+    - name: Subscribe
+      url: "index.xml"
+
+params:
+  description: "A By blog."
+  footer: "&copy; Oskar Sharipov - 2023 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
