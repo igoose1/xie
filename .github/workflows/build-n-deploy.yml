@@ -1,0 +1,32 @@
+name: Build static site and deploy with ssh
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b  # v3.0.2
+        with:
+          submodules: true
+          lfs: true
+
+      - name: Add SSH key
+        uses: shimataro/ssh-key-action@70366947e286a60c5196417e82602f5ecbcef96e  # v2.5.0
+        with:
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+      - name: Build and deploy on the host
+        run: |
+          export DOCKER_HOST=${{ secrets.DOCKER_HOST }}
+          export PORT=${{ env.PORT }}
+          docker compose --file docker-compose.yml up --detach --build
