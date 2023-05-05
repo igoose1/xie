@@ -1,15 +1,15 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "xie"
-theme: "forked-xmin"
+title: "A minimal Hugo website"
+theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
 permalinks:
-  note: "/note/:year/:month/:slug/"
-  post: "/post/:year/:month/:slug/"
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
 
 menu:
   main:
@@ -19,9 +19,9 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-      #    - name: Categories
-      #      url: "categories/"
-      #      weight: 3
+    - name: Categories
+      url: "categories/"
+      weight: 3
     - name: Tags
       url: "tags/"
       weight: 4
@@ -29,8 +29,8 @@ menu:
       url: "index.xml"
 
 params:
-  description: "A By blog."
-  footer: "&copy; Oskar Sharipov - 2023 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
 
 markup:
   highlight:
