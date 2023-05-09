@@ -1,6 +1,6 @@
 ---
 title: "Huyachit"
-slug: "2023-05-huyachit"
+slug: "huyachit"
 date: 2023-05-09T00:58:15+07:00
 tags:
  - languages
