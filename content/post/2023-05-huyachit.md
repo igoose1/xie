@@ -7,7 +7,7 @@ tags:
 ---
 
 There's a Russian word "huyachit". It's a curse word that you can't use it near Russian
-serious people.
+serious people. Part of it refers to male genitals, as is often the case.
 
 The word means "to work hard". Very hard. You would say the student huyachil (a past tense
 of huyatchit), if he/she got all A's or 100% marks. In China, they huyachit with a 9-9-6
