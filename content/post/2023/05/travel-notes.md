@@ -1,5 +1,5 @@
 ---
-title: "Note others about your trip plans"
+title: "Note Others About Your Trip Plans"
 slug: "travel-notes"
 date: 2023-05-11T00:15:09+07:00
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "I smashed an ant"
+title: "I Smashed An Ant"
 slug: "ant"
 date: 2023-04-26T13:14:11+07:00
 tags:

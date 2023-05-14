@@ -1,5 +1,5 @@
 ---
-title: "To watch tonight: Hamilton"
+title: "To Watch Tonight: Hamilton"
 slug: "hamilton"
 date: 2023-05-05T19:03:35+07:00
 tags:

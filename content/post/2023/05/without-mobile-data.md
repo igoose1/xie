@@ -1,5 +1,5 @@
 ---
-title: "Weeks without mobile data"
+title: "Weeks Without Mobile Data"
 slug: "without-mobile-data"
 date: 2023-05-12T17:57:28+07:00
 tags:

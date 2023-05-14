@@ -1,5 +1,5 @@
 ---
-title: "A very wide range"
+title: "A Very Wide Range"
 slug: "wide-range"
 date: 2023-05-13T12:48:50+07:00
 tags:
