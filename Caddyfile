@@ -12,7 +12,8 @@ handle_errors {
 }
 
 header /assets/css/* Cache-Control "public, max-age=604800"
-header /posts/*/*.webp Cache-Control "public, max-age=3600"
-header /posts/* Cache-Control "public, max-age=600"
+header /post/*/*.webp Cache-Control "public, max-age=3600"
+header /post/* Cache-Control "public, max-age=600"
+header / Cache-Control "no-cache"
 
 encode zstd gzip
