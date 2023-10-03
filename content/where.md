@@ -5,12 +5,11 @@ slug: "where"
 
 # 2023
 
-* **October 22 -- November 1**: Penang, Malaysia
-* **October 21 -- October 22**: Kuala Lumpur, Malaysia
-* **October 14 -- October 21**: Ho Chi Minh City, Vietnam
-* **September 24 -- October 14**: Da Lat, Vietnam
-* **September 16 -- September 24**: Ho Chi Minh City, Vietnam
-* **September 2 -- September 16**: Da Lat, Vietnam
+* **October 16 -- October 23**: Kuala Lumpur, Malaysia
+* **October 7 -- October 16**: Nha Trang, Vietnam
+* **September 29 -- October 7**: Da Lat, Vietnam
+* **September 19 -- September 29**: Ho Chi Minh City, Vietnam
+* **September 2 -- September 19**: Da Lat, Vietnam
 * **August 25 -- September 2**: Ho Chi Minh City, Vietnam
 * **July 28 -- August  25**: Phnom Penh, Cambodia
 * **July 28 -- July 28**: Ho Chi Minh City, Vietnam
