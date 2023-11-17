@@ -5,8 +5,10 @@ slug: "where"
 
 # 2023
 
-* **November 12 -- November 19**: Luang Prabang, Laos
-* **November 5 -- November 12**: Vientiane, Laos
+* **December 11 -- February 4**: ??, Thailand
+* **December 4 -- December 11**: Chiang Mai, Thailand
+* **November 16 -- December 4**: Luang Prabang, Laos
+* **November 5 -- November 16**: Vientiane, Laos
 * **November 4 -- November 5**: Bangkok, Thailand
 * **October 19 -- November 4**: Penang, Malaysia
 * **October 16 -- October 19**: Kuala Lumpur, Malaysia
