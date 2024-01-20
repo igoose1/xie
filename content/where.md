@@ -5,10 +5,11 @@ slug: "where"
 
 # 2023
 
-* **TBD -- February 9**: Malaysia
-* **TBD -- TBD**: Hat Yai, Thailand
-* **TBD -- TBD**: Bangkok, Thailand
-* **December 26 -- January 12**: Bangkok, Thailand
+* **January 30 -- February 9**: Malaysia
+* **January 28 -- January 30**: Cameron Highlands, Malaysia
+* **January 15 -- January 28**: Penang, Malaysia
+* **January 14 -- January 15**: Hat Yai, Thailand
+* **December 26 -- January 13**: Bangkok, Thailand
 * **December 4 -- December 25**: Chiang Mai, Thailand
 * **November 16 -- December 4**: Luang Prabang, Laos
 * **November 5 -- November 16**: Vientiane, Laos
