@@ -3,13 +3,19 @@ title: "My locations"
 slug: "where"
 ---
 
-# 2023
+# 2024
 
-* **January 30 -- February 9**: Malaysia
+* **February 17 -- March 10**: Thailand
+* **February 10 -- February 17**: Hat Yai, Thailand
+* **January 30 -- February 10**: Penang, Malaysia
 * **January 28 -- January 30**: Cameron Highlands, Malaysia
 * **January 15 -- January 28**: Penang, Malaysia
 * **January 14 -- January 15**: Hat Yai, Thailand
-* **December 26 -- January 13**: Bangkok, Thailand
+* **December 26, 2023 -- January 13**: Bangkok, Thailand
+
+# 2023
+
+* **December 26 -- January 13, 2024**: Bangkok, Thailand
 * **December 4 -- December 25**: Chiang Mai, Thailand
 * **November 16 -- December 4**: Luang Prabang, Laos
 * **November 5 -- November 16**: Vientiane, Laos
@@ -41,11 +47,11 @@ slug: "where"
 * **January 21 -- January 23**: Cameron Highlands, Malaysia
 * **January  9 -- January 21**: Penang, Malaysia
 * **January  9 -- January  9**: Bangkok, Thailand
-* **December 13 -- January  9**: Ko Samui, Thailand
+* **December 13, 2022 -- January  9**: Ko Samui, Thailand
 
 # 2022
 
-* **December 13 -- January  9**: Ko Samui, Thailand
+* **December 13 -- January  9, 2024**: Ko Samui, Thailand
 * **November 27 -- December 12**: Bangkok, Thailand
 * **November 26 -- November 27**: Istanbul, Turkey
 * **October  6 -- November 25**: Aktau, Kazakhstan
