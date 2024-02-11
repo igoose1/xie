@@ -6,7 +6,11 @@ slug: "where"
 # 2024
 
 * **February 17 -- March 10**: Thailand
-* **February 10 -- February 17**: Hat Yai, Thailand
+* **February 10 -- February 17**: Songkhla, Thailand
+
+Hat Yai was fully booked due to Chinese New Year, so I gave Songkhla a try. It appeared to
+be unexpectedly good!
+
 * **January 30 -- February 10**: Penang, Malaysia
 * **January 28 -- January 30**: Cameron Highlands, Malaysia
 * **January 15 -- January 28**: Penang, Malaysia
