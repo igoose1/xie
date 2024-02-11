@@ -30,8 +30,8 @@ menu:
       weight: 5
 
 params:
-  description: "A By blog."
-  footer: "&copy; Oskar Sharipov - 2023 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+  description: "An Oskar's blog."
+  footer: "&copy; Oskar Sharipov - 2024 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
 
 markup:
   highlight:
