@@ -61,7 +61,7 @@ be unexpectedly good!
 
 # 2022
 
-* **December 13 -- January  9, 2024**: Ko Samui, Thailand
+* **December 13 -- January  9, 2022**: Ko Samui, Thailand
 * **November 27 -- December 12**: Bangkok, Thailand
 * **November 26 -- November 27**: Istanbul, Turkey
 * **October  6 -- November 25**: Aktau, Kazakhstan
