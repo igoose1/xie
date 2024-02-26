@@ -5,8 +5,14 @@ slug: "where"
 
 # 2024
 
-* **February 17 -- March 10**: Thailand
-* **February 10 -- February 17**: Songkhla, Thailand
+* **March 8 -- March 17**: Bangkok, Thailand
+* **March 6 -- March 8**: Pattaya, Thailand
+* **March 2 -- March 6**: Ko Chang, Thailand
+* **March 1 -- March 2**: Bangkok, Thailand
+
+My grandma is visiting Thailand! It's time to check out beaches.
+
+* **February 10 -- February 29**: Songkhla, Thailand
 
 Hat Yai was fully booked due to Chinese New Year, so I gave Songkhla a try. It appeared to
 be unexpectedly good!
