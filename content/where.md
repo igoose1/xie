@@ -12,7 +12,8 @@ slug: "where"
 
 My grandma is visiting Thailand! It's time to check out beaches.
 
-* **February 10 -- February 29**: Songkhla, Thailand
+* **February 27 -- February 29**: Hat Yai, Thailand
+* **February 10 -- February 27**: Songkhla, Thailand
 
 Hat Yai was fully booked due to Chinese New Year, so I gave Songkhla a try. It appeared to
 be unexpectedly good!
