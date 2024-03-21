@@ -5,9 +5,9 @@ slug: "where"
 
 # 2024
 
-* **March 8 -- March 17**: Bangkok, Thailand
-* **March 6 -- March 8**: Pattaya, Thailand
-* **March 2 -- March 6**: Ko Chang, Thailand
+* **March 30 -- April 6**: Pattaya, Thailand
+* **March 8 -- March 30**: Bangkok, Thailand
+* **March 2 -- March 8**: Ko Chang, Thailand
 * **March 1 -- March 2**: Bangkok, Thailand
 
 My grandma is visiting Thailand! It's time to check out beaches.
