@@ -5,8 +5,9 @@ slug: "where"
 
 # 2024
 
-* **March 30 -- April 6**: Pattaya, Thailand
-* **March 8 -- March 30**: Bangkok, Thailand
+* **April 2 -- April 18**: Bangkok, Thailand
+* **March 29 -- April 2**: Pattaya, Thailand
+* **March 8 -- March 29**: Bangkok, Thailand
 * **March 2 -- March 8**: Ko Chang, Thailand
 * **March 1 -- March 2**: Bangkok, Thailand
 
