@@ -8,7 +8,8 @@ sometimes upcoming plans.
 
 # 2024
 
-* **April 18 -- April 20**: Hat Yai or Songkhla, Thailand
+* **April 27 -- April 28**: Kuala Lumpur, Malaysia
+* **April 18 -- April 27**: Songkhla, Thailand
 * **April 2 -- April 18**: Bangkok, Thailand
 * **March 29 -- April 2**: Pattaya, Thailand
 * **March 8 -- March 29**: Bangkok, Thailand
