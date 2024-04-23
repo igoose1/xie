@@ -3,6 +3,9 @@ title: "My locations"
 slug: "where"
 ---
 
+I constantly move from one location to another. These are my last locations and
+sometimes upcoming plans.
+
 # 2024
 
 * **April 18 -- April 20**: Hat Yai or Songkhla, Thailand
