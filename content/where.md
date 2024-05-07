@@ -3,12 +3,13 @@ title: "My locations"
 slug: "where"
 ---
 
-I constantly move from one location to another. These are my last locations and
+I constantly move from one spot to another. These are my last locations and
 sometimes upcoming plans.
 
 # 2024
 
-* **April 27 -- April 28**: Kuala Lumpur, Malaysia
+* **May 1 -- May 31**: Penang, Malaysia
+* **April 27 -- May 1**: Kuala Lumpur, Malaysia
 * **April 18 -- April 27**: Songkhla, Thailand
 * **April 2 -- April 18**: Bangkok, Thailand
 * **March 29 -- April 2**: Pattaya, Thailand
