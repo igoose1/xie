@@ -6,6 +6,10 @@ slug: "where"
 I constantly move from one spot to another. These are my last locations and
 sometimes upcoming plans.
 
+If you want to know what I'm doing currently, have a look at [my now page][now].
+
+[now]: /now/
+
 # 2024
 
 * **May 1 -- May 31**: Penang, Malaysia
