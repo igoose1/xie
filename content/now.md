@@ -1,38 +1,32 @@
 ---
 title: "What I'm doing now"
 slug: "now"
-date: 2024-05-19
+date: 2024-05-29
 ---
 
-I'm in Penang with Tzeyu. This time we rented an apartment for a month and I
-don't need to move between hotel rooms!
+I'm in Penang with Tzeyu. We had rented an apartment for May, and now we're
+about to rent another one for June.
 
-I got excited about rock climbing from vas3k.club posts and some talks with
-friends so this month we gave a try to a "Project Rock" gym. They gave us a
-two-week membership and we climb their walls 5--6 days per week. Bouldering
-turned out to be a very fun and smart activity, and takes all of our evening
-energy!
+We do climbing less frequently than two weeks ago because we figured out our
+muscles can't rest in 24 hours. Now we try to go 3--4 times per week and it's
+still exciting! We even bought special shoes for our activity and now we don't
+need to rent them from the gym.
 
-This month we work much from cafes and I wrote a blog-post [about it in
-Russian][cafes].
-
-[cafes]: https://weekly.oskarsh.ru/posts/work-at-cafes/
-
-Except work and climbing, I'm coding my small Go cli app for time tracking.
-I've been using [chrono][chrono] for a few years but the author doesn't update
-it and there're features I want to be built in another way. I'd considered
-forking a project but later realized I'd like to change core ideas radically.
+I wanted to spend my spare time coding a small Go cli app for time tracking.
+I'm using [chrono][chrono] for a few years but the author doesn't update it and
+there're features I want to be built in another way. However, now I got
+distracted by functional programming and Phoenix Framework. It's a new paradigm
+of building software for me and I'm trying new things like a new-born blind
+puppy.
 
 [chrono]: https://github.com/gochrono/chrono
 
-Next month I'd like to stay in Penang too but I didn't find an accommodation
-yet. Also, I don't know where I'll be on July. If an immigration center accepts
-my visa extension request, I'd like to spend another month in Malaysia. If not,
-I'll go to Vietnam for 2--3 months.
+In a few days we will try to extend my visa. If they approve my request, I
+could stay in Malaysia until July. And after Malaysia I'm flying to Kazakhstan.
 
-This is my first now page. Let's hope this idea goes far! It would be perfect
-if I find a simple way to save old now pages and serve them in RSS so friends
-can subscribe to updates.
+This is my second now page. I didn't forget about it! Tzeyu also started her
+web-blog and I wish she continues filling it with her thoughts:
+https://yunow.bearblog.dev/so-far-whats-up-in-may/
 
 ---
 
