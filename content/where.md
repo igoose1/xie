@@ -12,7 +12,7 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2024
 
-* **May 1 -- May 31**: Penang, Malaysia
+* **May 1 -- June 15**: Penang, Malaysia
 * **April 27 -- May 1**: Kuala Lumpur, Malaysia
 * **April 18 -- April 27**: Songkhla, Thailand
 * **April 2 -- April 18**: Bangkok, Thailand
