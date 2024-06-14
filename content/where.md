@@ -12,7 +12,10 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2024
 
-* **May 1 -- June 15**: Penang, Malaysia
+* **August 2 -- August 16**: Astana, Kazakhstan
+* **August 1 -- August 2**: Tashkent, Uzbekistan
+* **June 29 -- August 1**: TBD
+* **May 1 -- June 29**: Penang, Malaysia
 * **April 27 -- May 1**: Kuala Lumpur, Malaysia
 * **April 18 -- April 27**: Songkhla, Thailand
 * **April 2 -- April 18**: Bangkok, Thailand
