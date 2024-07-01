@@ -13,11 +13,11 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 # 2024
 
 * **October**: Delhi, India; Chiang Mai, Thailand; TBD
-* **August 16 -- September 30**: TBD, Kazakhstan
+* **August 17 -- August 31**: Almaty, Kazakhstan
 * **August 2 -- August 16**: Astana, Kazakhstan
 * **August 1 -- August 2**: Tashkent, Uzbekistan
-* **June 29 -- August 1**: TBD
-* **May 1 -- June 29**: Penang, Malaysia
+* **July 29 -- August 1**: Kuala Lumpur, Malaysia
+* **May 1 -- July 29**: Penang, Malaysia
 * **April 27 -- May 1**: Kuala Lumpur, Malaysia
 * **April 18 -- April 27**: Songkhla, Thailand
 * **April 2 -- April 18**: Bangkok, Thailand
