@@ -1,39 +1,31 @@
 ---
 title: "What I'm doing now"
 slug: "now"
-date: 2024-07-01
+date: 2024-07-28
 ---
 
-I'm in Penang with Tzeyu. This summer we were renting 1-month apartments, and
-I'm getting used to having a kitchen, a dining table and a living room. For the
-last year I stayed in hotel rooms: they are more expensive, and space is very
-limited but that renting is more flexible.
+I'm still in Penang with Tzeyu! But tomorrow I'll be in Kuala Lumpur, then in
+Tashkent, and at last in Astana. At the end of this page you can find my
+locations with dates when I'm moving.
 
-Although, we still work in cafes. There we don't need to worry about internet
-connection and food. Internet in airbnbs still sucks, and I'm so frustrated
-because renters don't understand what's wrong with 5 Mbps through 4G modem :-/
+Now all my thoughts are about the upcoming trip. I hope I won't leave anything
+in SE Asia because I don't know how soon I'll come back.
 
-We climb thrice per week and it's still exciting! We keep finding new friends
-in the gym, and they keep helping us to accomplish trickier bouldering routes.
-That's a :-)
+We climbed in Penang twice--thrice per week, and it's still exciting! We even
+invited a few friends and family members to the gym. I'm going to take climbing
+shoes to my trip and excited to try out gyms in KL and Kazakhstan too!
 
-As a hobby I got distracted by functional programming and Phoenix Framework.
-It's a novel paradigm of building software for me and I'm navigating it like a
-sailor in unfamiliar waters.
+Last week we were hosting a friend of the friend at our apartment. That was
+another unusual experience to us, and, to be honest, very tiring one too. We
+had gotten used to having our own private space where we can hide from talking,
+and last days that wasn't possible. The day after our guest left, my body
+declared its resignation with a fever. Now I'm alright, thanks for asking!
 
-We extended my visit pass and now I can stay in Malaysia a little bit longer.
-That was a long fun quest of getting these 4 allowed months, and I'm unique
-with all factors I had. Probably, I should write a post about getting a social
-visa as a Russian traveler in SEAsia.
+If you plan to meet me somewhere in Central Asia, please, warn me in advance. I
+will need some time to recharge a social battery.
 
-At the beginning of August I'm flying to Kazakhstan to meet my family. I spent
-much time searching for an interesting stopover and now my journey includes 21
-hours in Tashkent, Uzbekistan. I wanted to visit the country for a long time,
-but I didn't know they have a "chillya", the hottest period of the year. In
-that days the temperature can be over 40 &deg;C 🤯
-
-Tzeyu also started her web-blog and I STILL wish she continues filling it with
-her thoughts: https://yunow.bearblog.dev/so-far-whats-up-in-may/
+Also, I started to learn Chinese! I have a wonderful teacher, and now I can type funny
+misspelled phrases to Tzeyu. 很了不起！
 
 ---
 
