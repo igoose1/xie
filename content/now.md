@@ -1,28 +1,28 @@
 ---
 title: "What I'm doing now"
 slug: "now"
-date: 2024-07-28
+date: 2024-08-23
 ---
 
-I'm still in Penang with Tzeyu! But tomorrow I'll be in Kuala Lumpur, then in
-Tashkent, and at last in Astana. At the end of this page you can find my
-locations with dates when I'm moving.
+We are in Almaty with Tzeyu! This city has a post-Soviet vibe and mountain
+views from rented apartments, and I like it much more than Astana, de jure capital
+of Kazakhstan.
 
-Now all my thoughts are about the upcoming trip. I hope I won't leave anything
-in SE Asia because I don't know how soon I'll come back.
+I met my family for the first time in years! My parents' hair turned grey, my
+younger sister is becoming independent. They finally talked with Tzeyu in person and
+became friends. We played "Ticket to Ride" almost daily, and now I can call
+myself a professional winner 😎
 
-We climbed in Penang twice--thrice per week, and it's still exciting! We even
-invited a few friends and family members to the gym. I'm going to take climbing
-shoes to my trip and excited to try out gyms in KL and Kazakhstan too!
+We climb in Almaty twice per week. Here they have a small, usually overcrowded,
+but still challenging and fun bouldering gym. I even bought new shoe pair to
+replace the lost ones. When I have a reason, I always invite new friends to the gym, and
+usually they love it! (And hate the next day when muscles hurt.)
 
-Last week we were hosting a friend of the friend at our apartment. That was
-another unusual experience to us, and, to be honest, very tiring one too. We
-had gotten used to having our own private space where we can hide from talking,
-and last days that wasn't possible. The day after our guest left, my body
-declared its resignation with a fever. Now I'm alright, thanks for asking!
-
-If you plan to meet me somewhere in Central Asia, please, warn me in advance. I
-will need some time to recharge a social battery.
+On weekends we hope to hike in mountains, and the next week Tzeyu is leaving
+home. I'll stay in Central Asia for a while, and then move to SE Asia too. I
+plan to celebrate my birthday (21 October) in Chiang Mai, Thailand. Before it,
+I'd like to cross crazy traffics in Hanoi and swim in a sea of Da Nang in
+Vietnam.
 
 Also, I started to learn Chinese! I have a wonderful teacher, and now I can type funny
 misspelled phrases to Tzeyu. 很了不起！
