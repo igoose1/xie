@@ -12,14 +12,11 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2024
 
-* **October 21**: Chiang Mai, Thailand
-
-I plan to celebrate my birthday in Chiang Mai but before it I'll probably stay
-in Northern and Central Vietnam.
-
-* **30 September -- October 15**: Hanoi and Da Nang, Vietnam; TBD
-* **1 September -- 30 September**: TBD
-* **August 16 -- 1 September**: Almaty, Kazakhstan
+* **October 20 -- ??**: Da Nang, Vietnam
+* **September 16 -- ??**: Hanoi, Vietnam
+* **September 15 -- September 16**: Hong Kong
+* **September 1 -- ??**: ??
+* **August 16 -- September 1**: Almaty, Kazakhstan
 * **August 2 -- August 16**: Astana, Kazakhstan
 
 I met my family!
