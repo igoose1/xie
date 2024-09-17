@@ -15,8 +15,11 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 * **October 20 -- ??**: Da Nang, Vietnam
 * **September 16 -- ??**: Hanoi, Vietnam
 * **September 15 -- September 16**: Hong Kong
-* **September 1 -- ??**: ??
-* **August 16 -- September 1**: Almaty, Kazakhstan
+* **September 14**: Moscow, Russia
+* **September 8 -- September 14**: Kazan, Russia
+* **September 7 -- September 8**: Aznakayevo, Russia
+* **September 3 -- September 7**: Kazan, Russia
+* **August 16 -- September 3**: Almaty, Kazakhstan
 * **August 2 -- August 16**: Astana, Kazakhstan
 
 I met my family!
