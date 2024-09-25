@@ -12,8 +12,8 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2024
 
-* **October 20 -- ??**: Da Nang, Vietnam
-* **September 16 -- ??**: Hanoi, Vietnam
+* **October 19 -- November 16**: Da Nang, Vietnam
+* **September 16 -- October 19**: Hanoi, Vietnam
 * **September 15 -- September 16**: Hong Kong
 * **September 14**: Moscow, Russia
 * **September 8 -- September 14**: Kazan, Russia
