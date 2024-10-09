@@ -1,31 +1,50 @@
 ---
 title: "What I'm doing now"
 slug: "now"
-date: 2024-08-23
+date: 2024-10-10
 ---
 
-We are in Almaty with Tzeyu! This city has a post-Soviet vibe and mountain
-views from rented apartments, and I like it much more than Astana, de jure capital
-of Kazakhstan.
+I'm in Hanoi. Despite having one of the highest air pollution in the world,
+this city is fantastic for my SEAsia come back. Wait, did I write "come back"?
+Yes! If you keep track on my where page (link's at the bottom), you could
+notice I visited Russia for the first time in the last two years. I had urgent
+paper work to do. In Russia I visited my family and met people I haven't seen
+since studying. At last, I had two precisely planned one-day stopovers in
+Moscow in Hong Kong.
 
-I met my family for the first time in years! My parents' hair turned grey, my
-younger sister is becoming independent. They finally talked with Tzeyu in person and
-became friends. We played "Ticket to Ride" almost daily, and now I can call
-myself a professional winner 😎
+In Moscow, I've had a chance to meet with a HSE university group. I've never
+met some of them before but I've been reading their Telegram channels a few
+years ago imagining that one day I have to visit Moscow to ask for an invite to
+one of their cozy meeting. This time I was having a layover from morning to
+evening and a cheeky message leaded to an almost 4 hour lunch with this exact
+gang! I had fun and unexpectedly deep conversations, and even though I'll
+probably never meet most of these people again, it made my day special.
 
-We climb in Almaty twice per week. Here they have a small, usually overcrowded,
-but still challenging and fun bouldering gym. I even bought new shoe pair to
-replace the lost ones. When I have a reason, I always invite new friends to the gym, and
-usually they love it! (And hate the next day when muscles hurt.)
+Then, I arrived Hong Kong. I'm struggling to finish a Russian blog-post with
+random pictures from my trip. To be short, this city turned out to be much less
+serious and fancy as I thought. Their land situation is CRAZY, and poorly
+googled explanation is upsetting (prices are intentionally outbalanced by
+government) but public transport and plenty of great food made me wanting to
+get back to the city.
 
-On weekends we hope to hike in mountains, and the next week Tzeyu is leaving
-home. I'll stay in Central Asia for a while, and then move to SE Asia too. I
-plan to celebrate my birthday (21 October) in Chiang Mai, Thailand. Before it,
-I'd like to cross crazy traffics in Hanoi and swim in a sea of Da Nang in
-Vietnam.
+So, now I'm in a city where people eat dogs and breath motorbike emissions.
+These parts are bad, others are nice. I walk (with the mask), I've found my
+favourite tea house with an awesome woman owner, and I'm utilising my climbing
+membership twice per week.
 
-Also, I started to learn Chinese! I have a wonderful teacher, and now I can type funny
-misspelled phrases to Tzeyu. 很了不起！
+Although, somewhen in 10 days I'm planning to move to Da Nang. There're
+beaches, close people coming... Any my birthday!
+
+My Chinese is improving with a better pace but I'm still not quite happy with
+my progress. I still struggle to make my own Anki decks because typing Hanzi
+(this "这") and pinyin with tone marks (this "zhè") is hard. Oh, nevermind!
+I've just found a way to configure my input method for these tone marks. Wǒ hěn
+kù!
+
+In the next month, I'm planning to celebrate my birthday, publish my secret
+winter project, memorize whole HSK1 vocabulary to a perfect level and start
+with HSK2. Oh, also seems like I'm heading to Hong Kong for another one-day
+trip! More about it later.
 
 ---
 
