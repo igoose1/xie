@@ -13,7 +13,9 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 # 2024
 
 
-* **October 19 -- November 16**: Da Nang, Vietnam
+* **October 29 -- November 16**: Da Nang, Vietnam
+* **October 28 -- October 29**: Bangkok, Thailand
+* **October 19 -- October 28**: Da Nang, Vietnam
 * **October 18 -- October 19**: Hanoi, Vietnam
 * **October 17 -- October 18**: Cat Ba, Vietnam
 
