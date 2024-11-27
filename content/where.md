@@ -13,6 +13,8 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 # 2024
 
 
+* **November 22 -- December 31**: Bangkok, Thailand
+* **November 20 -- November 22**: Hua Hin, Thailand
 * **November 16 -- November 20**: Bangkok, Thailand
 * **October 29 -- November 16**: Da Nang, Vietnam
 * **October 28 -- October 29**: Bangkok, Thailand
