@@ -1,55 +1,35 @@
 ---
-title: "What I'm doing now"
+title: "What I'm doing now (monthly updated)"
 slug: "now"
-date: 2024-10-10
+date: 2024-12-28
 ---
 
-I'm in Hanoi. Despite having one of the highest air pollution in the world,
-this city is fantastic for my SEAsia come back. Wait, did I write "come back"?
-Yes! If you keep track on my where page (link's at the bottom), you could
-notice I visited Russia for the first time in the last two years. I had urgent
-paper work to do. In Russia I visited my family and met people I haven't seen
-since studying. At last, I had two precisely planned one-day stopovers in
-Moscow in Hong Kong.
+I'm in Bangkok with Tzeyu! We stayed here for a month and are leaving at the
+beginning of January to Penang for Chinese New Year! I'm very excited.
 
-In Moscow, I've had a chance to meet with a HSE university group. I've never
-met some of them before but I've been reading their Telegram channels a few
-years ago imagining that one day I have to visit Moscow to ask for an invite to
-one of their cozy meeting. This time I was having a layover from morning to
-evening and a cheeky message leaded to an almost 4 hour lunch with this exact
-gang! I had fun and unexpectedly deep conversations, and even though I'll
-probably never meet most of these people again, it made my day special.
+Bangkok is pleasant. Temperature dropped to 20--30 deg C and we don't even use A/C at
+night. This time we're renting a studio without kitchen. It's good for the
+price of accommodation but it turns out bad for food prices because of the area. We're
+in Thong Lo, this station has more Japanese food than local one and prices are 3 times
+bigger than a local food price. Aaanyway, when would I try Okinawa soba if not
+this location?
 
-Then, I arrived Hong Kong. I'm struggling to finish a Russian blog-post with
-random pictures from my trip. To be short, this city turned out to be much less
-serious and fancy as I thought. Their land situation is CRAZY, and poorly
-googled explanation is upsetting (prices are intentionally outbalanced by
-government) but public transport and plenty of great food made me wanting to
-get back to the city.
+We climb 2.5 times per week! Although, our bouldering membership ends soon, and
+we plan to do some "free climbing" before leaving the city.
 
-So, now I'm in a city where people eat dogs and breath motorbike emissions.
-These parts are bad, others are nice. I walk (with the mask), I've found my
-favourite tea house with an awesome woman owner, and I'm utilising my climbing
-membership twice per week.
+My Chinese studying slowed down. I don't spend much time on it during the week and only
+study before the class. I probably still can count some silly Chinese conversations with
+Tzeyu but I don't learn anything new with them.
 
-Although, somewhen in 10 days I'm planning to move to Da Nang. There're
-beaches, close people coming... Any my birthday!
+We started playing Geoguessr! I spent some night hours memorizing domains, flags and poles
+but gave up soon. It's a fun game but its skills won't be much useful in real life. Great
+players memorize meta-clues: camera quality, coverage years, and google-car roofs. That's
+a bit lame.
 
-My Chinese is improving with a better pace but I'm still not quite happy with
-my progress. I still struggle to make my own Anki decks because typing Hanzi
-(this "这") and pinyin with tone marks (this "zhè") is hard. Oh, nevermind!
-I've just found a way to configure my input method for these tone marks. Wǒ hěn
-kù!
-
-In the next month, I'm planning to celebrate my birthday, publish my secret
-winter project, memorize whole HSK1 vocabulary to a perfect level and start
-with HSK2. Oh, also seems like I'm heading to Hong Kong for another one-day
-trip! More about it later.
+Happy new year!
 
 ---
 
-This is a now-page. Read more or scroll now-pages of others: https://nownownow.com/about
+This is a now-page. Read more and see now-pages of others: https://nownownow.com/about
 
 Find where to find me on the exact date: [where/](/where/)
-
-The date under the title is a date of the last update.
