@@ -1,5 +1,5 @@
 # build static
-FROM klakegg/hugo:0.107.0 AS builder
+FROM floryn90/hugo:0.123.7 AS builder
 
 WORKDIR /xie
 COPY . /xie/
