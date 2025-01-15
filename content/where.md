@@ -10,10 +10,15 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 [now]: /now/
 
+# 2025
+
+* **January 6 -- January 31**: Penang, Malaysia
+* **January 4**: Ayuthaya, Thailand
+* **November 22 -- January 6**: Bangkok, Thailand
+
 # 2024
 
-
-* **November 22 -- December 31**: Bangkok, Thailand
+* **November 22 -- January 6**: Bangkok, Thailand
 * **November 20 -- November 22**: Hua Hin, Thailand
 * **November 16 -- November 20**: Bangkok, Thailand
 * **October 29 -- November 16**: Da Nang, Vietnam
