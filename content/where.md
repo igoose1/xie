@@ -12,7 +12,8 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2025
 
-* **January 6 -- January 31**: Penang, Malaysia
+* **February 2 -- February 28**: Jakarta, Indonesia
+* **January 6 -- February 2**: Penang, Malaysia
 * **January 4**: Ayuthaya, Thailand
 * **November 22 -- January 6**: Bangkok, Thailand
 
