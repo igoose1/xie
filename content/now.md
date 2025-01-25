@@ -1,32 +1,40 @@
 ---
 title: "What I'm doing now (monthly updated)"
 slug: "now"
-date: 2024-12-28
+date: 2024-01-25
 ---
 
-I'm in Bangkok with Tzeyu! We stayed here for a month and are leaving at the
-beginning of January to Penang for Chinese New Year! I'm very excited.
+We're in Penang! This is a hometown of Tzeyu, and we have to be here during Chinese New
+Year or her whole family will hate us. I don't mind, I like the place and the family, and
+Chinese New Year is another reason to prolong holidays!
 
-Bangkok is pleasant. Temperature dropped to 20--30 deg C and we don't even use A/C at
-night. This time we're renting a studio without kitchen. It's good for the
-price of accommodation but it turns out bad for food prices because of the area. We're
-in Thong Lo, this station has more Japanese food than local one and prices are 3 times
-bigger than a local food price. Aaanyway, when would I try Okinawa soba if not
-this location?
+For the first time, we are renting a whole house! I don't even understand a
+chain of friends which leaded to us getting this place for a month, but I'm
+very happy. Short-term rent of apartments is always a challenge, and I don't even want to
+share how many hours were spent on exploring and negotiating options...
 
-We climb 2.5 times per week! Although, our bouldering membership ends soon, and
-we plan to do some "free climbing" before leaving the city.
+Now we have our own garage and a small garden. Although, house isn't perfect---city air is
+burning and we miss an aircon in the living room.
 
-My Chinese studying slowed down. I don't spend much time on it during the week and only
-study before the class. I probably still can count some silly Chinese conversations with
-Tzeyu but I don't learn anything new with them.
+For climbing, we visit our favourite gym where that's all started! Some locals even
+recognized us and were happy to chat when we came back half of the year later!
 
-We started playing Geoguessr! I spent some night hours memorizing domains, flags and poles
-but gave up soon. It's a fun game but its skills won't be much useful in real life. Great
-players memorize meta-clues: camera quality, coverage years, and google-car roofs. That's
-a bit lame.
+We launched SendGlitter.my with Tzeyu. It's a small e-commerce web-site with
+"Stupid Glitter Letter" product. Not sure what to do with it and customers when we leave
+Malaysia, and we're about to leave Malaysia already... However, it was a fun experience
+of making a fancy e-com site. I'm not even ashamed of its design.
 
-Happy new year!
+I study Chinese vocabulary daily. It became easier after setting up Anki and adding my own
+cards. Also, I installed a "4000 Essential English Words" deck, and study it
+for 10 minutes every day. There're so many short English words which I didn't even know!
+
+After a New Year, we decided to go to Jakarta. All around the net says to avoid this
+dense, polluted and sinking city, which makes me even more excited about the
+trip! Imagine, if we go to the coast, we could be last humans stepping on some
+rocks before that part of the city drowns! Anyway, I need to double-check my
+stash of masks.
+
+Happy New Year again! 🍊
 
 ---
 
