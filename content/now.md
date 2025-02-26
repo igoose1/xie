@@ -1,7 +1,7 @@
 ---
 title: "What I'm doing now (monthly updated)"
 slug: "now"
-date: 2024-01-25
+date: 2025-01-25
 ---
 
 We're in Penang! This is a hometown of Tzeyu, and we have to be here during Chinese New
