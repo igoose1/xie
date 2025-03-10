@@ -1,43 +1,43 @@
 ---
 title: "What I'm doing now (monthly updated)"
 slug: "now"
-date: 2025-01-25
+date: 2025-03-10
 ---
 
-We're in Penang! This is a hometown of Tzeyu, and we have to be here during Chinese New
-Year or her whole family will hate us. I don't mind, I like the place and the family, and
-Chinese New Year is another reason to prolong holidays!
+We're in Bali! Even though I lived in Southeast Asia for 2.5 years, this is my
+first time being in Indonesia. We spent February in the sinking capital,
+Jakarta, and now came to the "Island of the Gods".
 
-For the first time, we are renting a whole house! I don't even understand a
-chain of friends which leaded to us getting this place for a month, but I'm
-very happy. Short-term rent of apartments is always a challenge, and I don't even want to
-share how many hours were spent on exploring and negotiating options...
+Our accommodation isn't any good because we hadn't decided a region where we
+stay in advance. Tzeyu wanted to do a short solo-trip at the beginning of this
+month and I planned to go to South Bali to try surfing for the first time in my
+life. Later, I'd go to Central Bali and see why Ubud is so famous among nomads.
+However, Tzeyu's trip was tougher and shorter than we expected so she came to
+me earlier and now we are stuck in Seminyak.
 
-Now we have our own garage and a small garden. Although, house isn't perfect---city air is
-burning and we miss an aircon in the living room.
+Although, we don't complain much about staying in a beach town! We both tried
+surfing and it's a wonderful substitution to bouldering. I had about 6 hours
+with the board already and I see some progress every time I enter the water.
+Tzeyu has a lot of fun with waves too so we marked this Bali trip as a month of
+surfing.
 
-For climbing, we visit our favourite gym where that's all started! Some locals even
-recognized us and were happy to chat when we came back half of the year later!
+We launched and already abandoned SendGlitter.my with Tzeyu. It was a small
+e-commerce web-site with "Stupid Glitter Letter" product. It was a fun
+experience of making a fancy e-com site but we couldn't keep it going from
+another country.
 
-We launched SendGlitter.my with Tzeyu. It's a small e-commerce web-site with
-"Stupid Glitter Letter" product. Not sure what to do with it and customers when we leave
-Malaysia, and we're about to leave Malaysia already... However, it was a fun experience
-of making a fancy e-com site. I'm not even ashamed of its design.
+I study Chinese harder than before but it never becomes easy. Writing is my
+Achilles' heel. I grind it with
+[anki-maobi](https://github.com/jcklie/anki-maobi), and I really like this
+add-on but Chinese characters just don't stick in my memory. For vocabulary, I
+add words from my lessons with the tutor and this works good. Usually I can
+utilise vocabulary from the last lesson, unless it's a
+classifier-for-objects-with-a-top-such-as-hats. I hate you, 顶.
 
-I study Chinese vocabulary daily. It became easier after setting up Anki and adding my own
-cards. Also, I installed a "4000 Essential English Words" deck, and study it
-for 10 minutes every day. There're so many short English words which I didn't even know!
-
-After a New Year, we decided to go to Jakarta. All around the net says to avoid this
-dense, polluted and sinking city, which makes me even more excited about the
-trip! Imagine, if we go to the coast, we could be last humans stepping on some
-rocks before that part of the city drowns! Anyway, I need to double-check my
-stash of masks.
-
-Happy New Year again! 🍊
+That's all for now!
 
 ---
 
-This is a now-page. Read more and see now-pages of others: https://nownownow.com/about
+This is my now-page. Read more and see now-pages of others: https://nownownow.com/about
 
 Find where to find me on the exact date: [where/](/where/)
