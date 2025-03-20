@@ -12,7 +12,7 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2025
 
-* **March 2 -- March 16**: Bali, Indonesia
+* **March 2 -- April 2**: Bali, Indonesia
 * **February 2 -- March 2**: Jakarta, Indonesia
 * **January 19 -- February 2**: Penang, Malaysia
 * **January 18 -- January 19**: Cameron Highlands, Malaysia
