@@ -28,7 +28,7 @@ menu:
 
 params:
   description: "An Oskar's blog."
-  footer: "&copy; Oskar Sharipov - 2024 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+  footer: "&copy; Oskar Sharipov - 2025 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
 
 markup:
   highlight:
