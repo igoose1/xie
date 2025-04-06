@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now (monthly updated)
-date: 2024-04-06
+date: 2025-04-06
 
 slug: "now"
 layout: "now"
