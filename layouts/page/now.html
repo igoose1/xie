@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
+{{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "January 2, 2006" }}</h2>{{ end }}
+</div>
+
+<main>
+{{ .Content }}
+
+<hr>
+
+<p>Read more and see now-pages of others: <a href="https://nownownow.com/about">https://nownownow.com/about</a></p>
+<p>Find where to find me on the exact date: <a href="/where/">where/</a></p>
+
+</main>
+
+{{ partial "footer.html" . }}
