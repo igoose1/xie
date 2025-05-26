@@ -115,7 +115,7 @@ be unexpectedly good!
 * **November 26 -- November 27**: Istanbul, Turkey
 * **October  6 -- November 25**: Aktau, Kazakhstan
 * **September 27 -- October  6**: Astana, Kazakhstan
-* **September 27 -- September 27**: Chelyabinsk, Russia
+* **September 27**: Chelyabinsk, Russia
 * **September 15 -- September 26**: Saint Petersburg, Russia
 * **August 29 -- September 15**: Perm, Russia
 * **July 24 -- August 29**: Saint Petersburg, Russia
