@@ -12,7 +12,9 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2025
 
-* **June 9 -- June 12**: Bangkok, Thailand
+* **June 21 -- June 28**: Songkhla, Thailand
+* **June 20 -- June 21**: Hat Yai, Thailand
+* **June 9 -- June 20**: Bangkok, Thailand
 * **June 8 -- June 9**: Hong Kong
 * **June 1 -- June 8**: Beijing, China
 * **May 31 -- June 1**: Guangzhou, China
