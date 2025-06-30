@@ -1,51 +1,45 @@
 ---
 title: What I'm doing now (monthly updated)
-date: 2025-05-24
+date: 2025-06-30
 
 slug: "now"
 layout: "now"
 ---
 
-These are my last days in Hanoi. We stayed here for almost two months, eating
-liters of Pho and even more Banh mi sandwiches. My final conclusion is that
-Hanoi can be the best city in South East Asia if only it fixes its air and
-noise pollution problems. We had to top up our stash of face masks and earplugs
-here.
+My last update was more than a month ago and I shared I was about to go to China. Chinese
+trip is complete! I stayed one day in Guangzhou, a week in Beijing and one day in Hong
+Kong, and I had much joy. I had planned to make a short trip somewhere near Beijing but
+the capital surprised me with its infrastructure so much I decided to stay there more. I
+had many awkward and funny attempts of speaking my very limited Mandarin.
+List of achievements I'm proud consist of:
 
-This was the first time we booked a motorbike for months. Our own vehicle
-improved the quality of life significantly. We could do many things outdoor
-without interruptions, such as visiting favorite dining places before a cafe
-and then going to a grocery store, and pharmacy, and oh Tzeyu can you please
-drop me here I want to buy some milk tea for climbing. Ah, milk tea!
+1. had Chinese food in places where they have no English menu every day,
+2. bought 3 peaches, 0.5 kg of nectarines, and some other fruits I can't recall
+   at small stores,
+3. had 3 hawthorn tanghulu,
+4. rented bicycle 8 times,
+5. climbed twice in the local climbing gym,
+6. learned mini-apps for searching restaurant reviews and ordering food
+   delivery.
 
-Tzeyu left earlier. She went to Korea, and we will reunion[^1] in a few weeks
-in Malaysia or nearby. Until that I have an important mission. I'm going to
-China and I have to use as much vocabulary as I could remember in the last
-months. I don't really have many ideas what I'm going to do in China. For now,
-I know for sure that I'm going to order a lot of meals, pastries, and drinks,
-but probably I need to find more things to do. As I understood, Chinese tourism
-didn't fully recover from Covid. It's hard to find updated information in
-English as soon as I search for something weirder than Palace Museum, Tiananmen
-Square, and the Great Wall. For example, I still don't know if there's any good
-climbing gym in Beijing! There definitely must be a few, it's just hard to
-find.
+I'm a simple person, simple things make me happy.
 
-[^1]: Not to be confused with a French island near Madagascar.
+Having a day in Hong Kong was a great idea too. It is my favourite place in the
+world and every trip I explore new pieces of it. This time I visited The Peak.
+I've also tasted the best xiaolongbao in my life but it's not Cantonese and I'm
+even a bit shy to mention it.
 
-Here, in Hanoi, I climbed twice per week without skipping, and I don't want to
-break my personal streak even on a "vacation". And as I started talking about
-sports, it's probably an ideal paragraph to mention that we tried Lindy Hop
-dancing courses. I wasn't good and it was stressing for me but I know Tzeyu
-enjoyed it a lot, and this matters.
+Now me and Tzeyu are in the southern Thailand. We don't want to stay here very
+long but we have to because I'm applying for one specific visa. That
+application is processing for many more months than we expected and it drains
+and limits us in movement but we don't have much choice.
 
-I keep studying Chinese but it doesn't become easier. I gave up studying
-writing and focused on vocabulary. Currently my Anki deck has 1200 cards. I do
-at least 20 minutes of grinding per day stably... And it's not enough. I can
-see progress but Anki was never a suitable tool to show how good you are, its
-algorithms are meant to always push you into unknown territory. I hope my
-adventures in China will show my studying is worth something. If my
-"能便宜一点儿吗？" (can be a bit cheaper?) works at least once, I will be the
-happiest tourist in the country.
+Last days are chill. We found different boards of Ticket to Ride (Europe, US,
+Berlin) and played over 5 games already.
+
+I keep studying Chinese. I gave up on writing and focused on vocabulary.
+Currently my Anki deck has 1200 cards. I do at least 20 minutes of grinding per
+day. It's not much but it's better than nothing!
 
 I'd organized a few Geoguessr parties in [vas3k.club](https://vas3k.club)
 community, and these occasional meetings led to a Geoguessr community of 100+
