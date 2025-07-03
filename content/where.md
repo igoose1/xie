@@ -12,7 +12,8 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2025
 
-* **June 21 -- June 28**: Songkhla, Thailand
+* **July 5 -- July 31**: Phuket, Thailand
+* **June 21 -- July 5**: Songkhla, Thailand
 * **June 20 -- June 21**: Hat Yai, Thailand
 * **June 9 -- June 20**: Bangkok, Thailand
 * **June 8 -- June 9**: Hong Kong
