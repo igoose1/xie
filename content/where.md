@@ -12,7 +12,11 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2025
 
-* **August 2 -- September 2**: Hanoi, Vietnam
+* **September 14 -- October 1**: Kuala Lumpur, Malaysia
+* **September 13 -- September 14**: Penang, Malaysia
+* **September 7 -- September 13**: Hat Yai, Thailand
+* **September 6 -- September 7**: Bangkok, Thailand
+* **August 2 -- September 6**: Hanoi, Vietnam
 * **July 5 -- August 2**: Phuket, Thailand
 * **June 21 -- July 5**: Songkhla, Thailand
 * **June 20 -- June 21**: Hat Yai, Thailand
