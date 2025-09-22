@@ -1,47 +1,31 @@
 ---
 title: What I'm doing now (monthly updated)
-date: 2025-06-30
+date: 2025-09-23
 
 slug: "now"
 layout: "now"
 ---
 
-My last update was more than a month ago and I shared I was about to go to China. Chinese
-trip is complete! I stayed one day in Guangzhou, a week in Beijing and one day in Hong
-Kong, and I had much joy. I had planned to make a short trip somewhere near Beijing but
-the capital surprised me with its infrastructure so much I decided to stay there more. I
-had many awkward and funny attempts of speaking my very limited Mandarin.
-List of achievements I'm proud consist of:
+Me and Tzeyu are in Kuala Lumpur. Finally! This had to happen a few months earlier but
+life isn't for sissies.
 
-1. had Chinese food in places where they have no English menu every day,
-2. bought 3 peaches, 0.5 kg of nectarines, and some other fruits I can't recall
-   at small stores,
-3. had 3 hawthorn tanghulu,
-4. rented bicycle 8 times,
-5. climbed twice in the local climbing gym,
-6. learned mini-apps for searching restaurant reviews and ordering food
-   delivery.
+I haven't updated this page for 2 months. Weeks were a bit chaotic and my geolocation,
+mood and plans for the year depended on Malaysia's immigration department. Eventually, I
+obtained the longest visa I've ever had. We plan to slow down with travelling for a year
+--- or more, who knows --- and build a base in Kuala Lumpur.
 
-I'm a simple person, simple things make me happy.
+Right now I'm sitting in the living room of Tzeyu's relative. They were kind enough to
+host us while we are signing a long-term rental contract. I'm lucky being here and I never
+thought I could stay as comfortable as here. Although, my productivity still dropped and I
+usually spent more time on choosing the right song for working than actually working. No
+wonder I'm updating my now page at 1 am instead of preparing to sleep...
 
-Having a day in Hong Kong was a great idea too. It is my favourite place in the
-world and every trip I explore new pieces of it. This time I visited The Peak.
-I've also tasted the best xiaolongbao in my life but it's not Cantonese and I'm
-even a bit shy to mention it.
+I've been to Kuala Lumpur before but it was a while ago when I only started my nomad life.
+I was immature and wasn't too excited in exploring places. This time, I had an evening
+when everyone in the house but me had their plans. I decided to visit some known places in
+the center and then just walk until I get tired. That was a long walk, I listened podcasts
+about China, saw the second tallest building in the world, I saw the tallest twin towers
+in the world... And that shouldn't have even sounded exciting, that's not hard at all to
+see these buildings being in the city!
 
-Now me and Tzeyu are in the southern Thailand. We don't want to stay here very
-long but we have to because I'm applying for one specific visa. That
-application is processing for many more months than we expected and it drains
-and limits us in movement but we don't have much choice.
-
-Last days are chill. We found different boards of Ticket to Ride (Europe, US,
-Berlin) and played over 5 games already.
-
-I keep studying Chinese. I gave up on writing and focused on vocabulary.
-Currently my Anki deck has 1200 cards. I do at least 20 minutes of grinding per
-day. It's not much but it's better than nothing!
-
-I'd organized a few Geoguessr parties in [vas3k.club](https://vas3k.club)
-community, and these occasional meetings led to a Geoguessr community of 100+
-members, a few small tournaments, and non-stop dicsussions of road poles.
-That's great!
+I think I may stop here. That's good enough.
