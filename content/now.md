@@ -28,4 +28,7 @@ about China, saw the second tallest building in the world, I saw the tallest twi
 in the world... And that shouldn't have even sounded exciting, that's not hard at all to
 see these buildings being in the city!
 
+Because of crazy travellings, we didn't do any sports for weeks. This Sunday we finally
+managed to get to the climbing gym. That's an achievement too.
+
 I think I may stop here. That's good enough.
