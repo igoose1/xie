@@ -11,8 +11,8 @@ life isn't for sissies.
 
 I haven't updated this page for 2 months. Weeks were a bit chaotic and my geolocation,
 mood and plans for the year depended on Malaysia's immigration department. Eventually, I
-obtained the longest visa I've ever had. We plan to slow down with travelling for a year
---- or more, who knows --- and build a base in Kuala Lumpur.
+obtained the longest visa I've ever had. We plan is to slow down with travelling for a
+year --- or more, who knows --- and build a base in Kuala Lumpur.
 
 Right now I'm sitting in the living room of Tzeyu's relative. They were kind enough to
 host us while we are signing a long-term rental contract. I'm lucky being here and I never
@@ -31,4 +31,4 @@ see these buildings being in the city!
 Because of crazy travellings, we didn't do any sports for weeks. This Sunday we finally
 managed to get to the climbing gym. That's an achievement too.
 
-I think I may stop here. That's good enough.
+I think I may stop with this sentence. That's good enough.
