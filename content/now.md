@@ -6,29 +6,23 @@ slug: "now"
 layout: "now"
 ---
 
-Me and Tzeyu are in Kuala Lumpur. Finally! This had to happen a few months earlier but
-life isn't for sissies.
+Me and Tzeyu are in Kuala Lumpur. Finally! We plan to stay here for a year, maybe with
+short trips in Asia.
 
-I haven't updated this page for 2 months. Weeks were a bit chaotic and my geolocation,
-mood and plans for the year depended on Malaysia's immigration department. Eventually, I
-obtained the longest visa I've ever had. We plan is to slow down with travelling for a
-year --- or more, who knows --- and build a base in Kuala Lumpur.
+We rented a nice apartment. Since moving in, we were busy making it cozy. Now we have an
+air fryer so I believe we accomplished the goal.
 
-Right now I'm sitting in the living room of Tzeyu's relative. They were kind enough to
-host us while we are signing a long-term rental contract. I'm lucky being here and I never
-thought I could stay as comfortable as here. Although, my productivity still dropped and I
-usually spent more time on choosing the right song for working than actually working. No
-wonder I'm updating my now page at 1 am instead of preparing to sleep...
+Additionally, I've finally bought Raspberry Pi. I dreamed about it when I was studying,
+and I couldn't buy it because I didn't money for it... And then after starting to work I
+didn't have a need. After moving in I made up a reason and purchased Raspberry Pi with a
+SATA hat. Now this is our home NAS, home torrent seeder and home Minecraft server. Happy!
 
-I've been to Kuala Lumpur before but it was a while ago when I only started my nomad life.
-I was immature and wasn't too excited in exploring places. This time, I had an evening
-when everyone in the house but me had their plans. I decided to visit some known places in
-the center and then just walk until I get tired. That was a long walk, I listened podcasts
-about China, saw the second tallest building in the world, I saw the tallest twin towers
-in the world... And that shouldn't have even sounded exciting, that's not hard at all to
-see these buildings being in the city!
+We climb. We did 2 climbs per week trying to increase it to 3 climbs. And this is hard! If
+I climbed on Monday, I can't climb productively on Wednesday. I'll see if I can do other
+exercises---thankfully our climbing gym has different gym equipment, weights, pull-up
+bars and hangboards. If this won't be productive either, maybe we can alter days every
+week.
 
-Because of crazy travellings, we didn't do any sports for weeks. This Sunday we finally
-managed to get to the climbing gym. That's an achievement too.
-
-I think I may stop with this sentence. That's good enough.
+I'm busy with making a Secret Santa tool for communities. I've organised Secret Santa for
+600 members of vas3k.club in previous years. This year I'd like to offer the same for
+other small communities I'm part of.
