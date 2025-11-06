@@ -12,7 +12,10 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2025
 
-* **October 6 -- October 17**: Ko Chang, Thailand
+
+* **October 18 -- December 31**: Kuala Lumpur, Malaysia
+* **October 16 -- October 18**: Bangkok, Thailand
+* **October 6 -- October 16**: Ko Chang, Thailand
 * **October 5 -- October 6**: Bangkok, Thailand
 * **September 14 -- October 5**: Kuala Lumpur, Malaysia
 * **September 13 -- September 14**: Penang, Malaysia
