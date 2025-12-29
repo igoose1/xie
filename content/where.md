@@ -10,9 +10,13 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 [now]: /now/
 
+# 2026
+
+* **December 31 -- January 10**: Sichuan, China
+
 # 2025
 
-
+* **December 31 -- January 10**: Sichuan, China
 * **October 18 -- December 31**: Kuala Lumpur, Malaysia
 * **October 16 -- October 18**: Bangkok, Thailand
 * **October 6 -- October 16**: Ko Chang, Thailand
