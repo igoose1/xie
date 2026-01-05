@@ -12,11 +12,15 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2026
 
-* **December 31 -- January 10**: Sichuan, China
+* **January 10 -- February 28**: Kuala Lumpur, Malaysia
+* **January 6 -- January 10**: Chengdu, China
+* **January 4 -- January 6**: Mount Siguniang, China
+* **January 3 -- January 4**: Chengdu, China
+* **December 31 -- January 3**: Chongqing, China
 
 # 2025
 
-* **December 31 -- January 10**: Sichuan, China
+* **December 31 -- January 3**: Chongqing, China
 * **October 18 -- December 31**: Kuala Lumpur, Malaysia
 * **October 16 -- October 18**: Bangkok, Thailand
 * **October 6 -- October 16**: Ko Chang, Thailand
