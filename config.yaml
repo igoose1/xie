@@ -8,8 +8,7 @@ ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
 permalinks:
-  note: "/note/:year/:month/:slug/"
-  post: "/post/:year/:month/:slug/"
+  post: "/post/:slug/"
 
 menu:
   main:
@@ -27,8 +26,11 @@ menu:
       weight: 4
 
 params:
-  description: "An Oskar's blog."
-  footer: "&copy; Oskar Sharipov - 2025 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+  description: "Blog of Oskar Sharipov."
+  footer: "&copy; Oskar Sharipov - 2026 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+  copyright: "© Oskar Sharipov - 2026 - CC BY-SA 4.0"
+  author:
+    name: Oskar Sharipov
 
 markup:
   highlight:
