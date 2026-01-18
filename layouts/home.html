@@ -1,12 +1,8 @@
 {{ partial "header.html" . }}
 
-{{if not .IsHome }}
-<h1>{{ .Title | markdownify }}</h1>
-{{ end }}
-
 {{ .Content }}
 
-<!--
+<h2>Posts</h2>
 
 <ul>
   {{ $pages := .Pages }}
@@ -18,7 +14,5 @@
   </li>
   {{ end }}
 </ul>
-
--->
 
 {{ partial "footer.html" . }}
