@@ -1,0 +1,15 @@
+#!/usr/bin/env zsh
+
+set -euo pipefail
+
+YEAR="$(date +%Y)"
+FOLDER="./content/post/$YEAR"
+
+if [[ -z "${1:-}" ]]; then
+  echo "Usage: $0 <slug>" >&2
+  exit 1
+fi
+
+[ ! -d "$FOLDER" ] && mkdir "$FOLDER"
+
+hugo new --editor "$EDITOR" "$FOLDER/$1.md"

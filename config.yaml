@@ -38,3 +38,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+security:
+  exec:
+    allow: ['^(dart-)?sass(-embedded)?$', '^go$', '^npx$', '^postcss$', '^nvim$']
