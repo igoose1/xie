@@ -12,7 +12,9 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2026
 
-* **January 10 -- February 28**: Kuala Lumpur, Malaysia
+* **February 22 -- March 31**: Kuala Lumpur, Malaysia
+* **February 13 -- February 22**: Penang, Malaysia
+* **January 10 -- February 13**: Kuala Lumpur, Malaysia
 * **January 6 -- January 10**: Chengdu, China
 * **January 4 -- January 6**: Mount Siguniang, China
 * **January 3 -- January 4**: Chengdu, China
