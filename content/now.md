@@ -1,36 +1,33 @@
 ---
 title: What I'm doing now (monthly updated)
-date: 2026-02-12
+date: 2026-03-09
 
 slug: "now"
 layout: "now"
 ---
 
-Heyy! This is the first now page in 2026. I've missed an update in January but
-who reads these anyways? :-)
+This now-page will be shorter than everything because I want to finish writing it before
+I finish my glass of matcha latte.
 
-Chinese New Year is coming and this means I and Tzeyu are going to Penang.
-Actually she's already there and I'm going tomorrow but I'm already excited to
-visit my favourite restaurants and hikes.
+CNY has ended and we returned from Penang, that's where Tzeyu's family stays.
+It was chaotic and fun and there were many people. That would be an amazing
+opportunity to practice Mandarin if only I haven't given up on it and Tzeyu's
+family weren't Cantonese... Anyway, I learned another useful Chinese skill! Now
+I can play Mahjong! I lost money, then I won money, that was more fun than I
+expected and now we even have a Mahjong set at home. Come to play with us!
 
-This week I'm spending alone. I was very excited with one project and put much
-effort into it at the beginning of the week. My sleeping pattern broke without
-Tzeyu but I think it's because I couldn't care less. I'd rather use my
-motivation to work for 10 hours straight than waste my Muse on sleeping. And
-that "paid back". I had been overproductive and then got overlazy. Smart books
-say it's better to be constant, and I agree, but I can't always follow it.
+I've been busy with my secret project. Almost every day I work 8+ hours for it, that's
+easy when I'm in the flow but then it's hard to get out of the flow. Falling asleep became
+hard, and some other parts of the daily routine broke. Our house was never as messy as 
+these weeks 🙈
 
-I also explored the area around. Our house is great... If you have a car. I
-don't have one and I was sure there's nothing fun if you don't take a
-transport. Yesterday I walked much, explored shortcuts and parks around, and I
-ensured we chose an amazing location for our long-term apartment.
+For sports, we're coming back to rock climbing. I also feel I want to jog more
+(than once for 2 weeks, oops, another 🙈), walk more and hike more. We will do
+all of these, yes!
 
-I'm not happy with my current sports situation. I had big goals for 2026 and
-I'm behind the schedule. Same problem with my languages. I don't want to talk
-much about it because I believe sharing goals is worse then hiding them:
-https://sive.rs/zipit
-
-My last now-page was about my upcoming trip to Sichuan so I feel like I have to
-say something China in this one. China was great!
-
-See you next time!
+My childhood friend is coming in the second half of the month. That's very exciting! They
+didn't explore much outside of their home country so I'm responsible to show that Moscow
+isn't the greatest city of all time. Well, that'll be quite a task. We plan to travel in
+Malaysia a bit and I'm still not sure how I can combine work and travelling. What I know is
+that I won't have to think about sports, this friend won't let me sit all days
+long!
