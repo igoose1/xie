@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now (monthly updated)
-date: 2026-03-09
+date: 2026-03-13
 
 slug: "now"
 layout: "now"
@@ -31,3 +31,6 @@ isn't the greatest city of all time. Well, that'll be quite a task. We plan to t
 Malaysia a bit and I'm still not sure how I can combine work and travelling. What I know is
 that I won't have to think about sports, this friend won't let me sit all days
 long!
+
+Me and Tzeyu started to write "Durian Truck":
+https://duriantruck.com
