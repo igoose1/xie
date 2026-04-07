@@ -1,36 +1,42 @@
 ---
 title: What I'm doing now (monthly updated)
-date: 2026-03-13
+date: 2026-04-07
 
 slug: "now"
 layout: "now"
 ---
 
-This now-page will be shorter than everything because I want to finish writing it before
-I finish my glass of matcha latte.
+Welcome to the newest now page! Last one was written in a hurry but I think it was
+read the most. Maybe there's a lesson in it, maybe not.
 
-CNY has ended and we returned from Penang, that's where Tzeyu's family stays.
-It was chaotic and fun and there were many people. That would be an amazing
-opportunity to practice Mandarin if only I haven't given up on it and Tzeyu's
-family weren't Cantonese... Anyway, I learned another useful Chinese skill! Now
-I can play Mahjong! I lost money, then I won money, that was more fun than I
-expected and now we even have a Mahjong set at home. Come to play with us!
+Last month my childhood friend from Russia came for a visit. We spent much time talking
+and walking, and even had a small journey to Terengganu state of Malaysia. We also were
+supposed to visit Penang but train gods decided to not let us pass the gates 3
+minutes before the departure. Well, I'm still a bit sad we wasted the ticket but honestly
+this is the best way to miss the transport I could have in the last 3 (or 4?) years of
+being a digital nomad.
 
-I've been busy with my secret project. Almost every day I work 8+ hours for it, that's
-easy when I'm in the flow but then it's hard to get out of the flow. Falling asleep became
-hard, and some other parts of the daily routine broke. Our house was never as messy as 
-these weeks 🙈
+In Terengganu we visited the Kapas island. It's a hidden gem, I'm glad it's so
+limited with hotels and other facilities, so now I know fabulous semi-private
+beaches not that far from the airport. I really hope no one reads these now
+pages, I want to keep the place as a secret.
 
-For sports, we're coming back to rock climbing. I also feel I want to jog more
-(than once for 2 weeks, oops, another 🙈), walk more and hike more. We will do
-all of these, yes!
+I've been busy with my secret project. Almost every day I work 8+ hours for it,
+that's easy when I'm in the flow but then it's hard to get out of the flow.
+Falling asleep became hard, and some other parts of the daily routine broke. I
+don't care about it yet though.
 
-My childhood friend is coming in the second half of the month. That's very exciting! They
-didn't explore much outside of their home country so I'm responsible to show that Moscow
-isn't the greatest city of all time. Well, that'll be quite a task. We plan to travel in
-Malaysia a bit and I'm still not sure how I can combine work and travelling. What I know is
-that I won't have to think about sports, this friend won't let me sit all days
-long!
+Me and Tzeyu started to write "Durian Truck": https://duriantruck.com. It's our
+"family wiki", we write it together (yeah Tzeyu, go write something if you're
+reading this!) about things we care. It has some recommendations for places to
+visit (to eat), and recipes, and many stupid jokes. Mostly from me, oh, I love
+leaving jokes in there!
 
-Me and Tzeyu started to write "Durian Truck":
-https://duriantruck.com
+Tzeyu started brewing kombucha a while ago. That's a long process. From zero it
+takes about 3 weeks to get a final product. However, it takes as
+much time to make 10 litres than to make a glass so at one moment we got too
+much kombucha we wanted to share with friends. That led to our first Kombucha
+Party! We created a special page in our Durian Truck and invited friends and
+family: https://duriantruck.com/Parties/2026-04-04. We expected it to be a
+small event with a few close family members but it became a 7-member gathering
+which lasted for 6 hours. These crazy people really love us, I think.
