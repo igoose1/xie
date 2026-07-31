@@ -1,50 +1,23 @@
 ---
-title: What I'm doing now (monthly updated)
-date: 2026-05-28
+title: What I'm doing now
+date: 2026-07-31
 
 slug: "now"
 layout: "now"
 ---
 
-Hi again! It's a page describing what I'm doing at the moment and what occupies
-my thoughts.
+Hi there! That's a new monthly update. Last one was TWO MONTHS ago, oh no! But I have an excuse.
 
-Last month Tzeyu and I did a weekend trip to Malacca. It's a city 1.5 hours
-away from Kuala Lumpur if you don't eat on the road. Or 2.5 hours away if you
-are us. We did the trip spontaneously without much prior research. Right before
-the drive, I found out about https://melakaonbike.com/. It's a bicycle tour in
-outskirts of Malacca, organized by locals who lived in the farms and paddy
-fields for decades. We were so lucky to find and try them because I feel like
-it helped to put so much in those few hours we had! I won't describe the tour
-much but if you're in the city, give them a try!
+At the beginning of June my family came to visit us in Malaysia. These were busy weeks, I didn't even have a laptop most of the time. When I noticed this page was stale, I could only jump into the sea. That obviously wouldn't help!
 
-Other than bicycles, we ate amazing food. Malacca is famous for its asam pedas,
-a sour and spicy stew prepared with fish. I don't eat fish often but that was a
-top tier meal. I'm even shy to write here how many hours we spent searching for
-asam pedas store after that trip :-)
+In June, we've visited Borneo, KL centre, Penang, and Langkawi. In Borneo, we stayed in Sandakan town and along the Kinabantangan river. I saw orangutans waking up, elephants crossing the river, this and that hornbills, and many others IN THE WILD! Nature is beautiful and needs so much patience, you can't fast-forward a baby-elephant stuck at the entrance to the waters and slow-mo a crocodile hiding in the mud. As for the town, ah, um... That town contrasted with every other town I knew in Malaysia. It felt poorer. Before visiting Sandakan, I only saw so many children begging in Laos and Cambodia.
 
-Tzeyu and I keep writing in the "Durian Truck": https://duriantruck.com. It's
-our "family wiki", we write it together (yeah Tzeyu, go write something if
-you're reading this!) about things we care. It has some recommendations for
-places to visit (to eat), recipes, and many stupid jokes. Mostly from me. Oh, I
-love leaving jokes there!
+It was really nice to show Kuala Lumpur and Georgetown to my family. We ate everything I planned to introduce them to, we hiked the Penang Hill (ending with the nicest ice cream at the top of the hill), I learned more Malay to ensure my mother always gets a cup of tea the way she likes. The biggest highlight is that my parents loved durian! I already updated our ["Durian Friends" page][df].
 
-I've published a Telegram game for spread out families. Every morning a bot
-sends a topic of the day. Anyone sends a picture related to the topic, family
-members can like, comment and compete. So far, my family sent over 1500 photos
-across 8 months. Some friends loved the idea so I made this project public.
+[df]: https://duriantruck.com/Durian/Friends
 
-Since I wrote about it [in vas3k club][vas3k], it got 100+ users and around 10
-active chats. If you're interested, you can set it up [in Russian][ru] or [in
-English][en]. That was fun to make it and now I can slow
-down with its development and leave it running as it is.
+Our trip ended with the drive to Kuala Kedah and a journey to Langkawi. I was nervous our accommodation would be problematic and beach wouldn't be suitable for swimming. In fact, accommodation was comfortable for everyone in the group and we found a nicer beach in a walking distance. Still, we had a challenge to find a diner in Friday when everything is closed... But I can easily forget all of it after visiting duty-free stores.
 
-[ru]: https://t.me/CreateDailySnapRobot
-[en]: https://t.me/CreateRotiBomBot
-[vas3k]: https://vas3k.club/project/31427/
+That's all for now! My family has left, I still have to return the house to its productive state (tables are all over the place). I have a long backlog of things to do and even longer list of Russian snacks I have to eat up before the ants. Also, a job... I'm searching for a project to work at. Hit me up if you have something interesting.
 
-And now I'm looking for a job! If you have an interesting one, let's talk.
-
-Someone asked me when I'm going to add reactions to this page. Here is the
-manual! If you want to react to things I write, drop me an email or message
-wherever you chat with me. Cheers!
+I want to write more in the blog here. Something always blocks me. I feel I have to lower standards and just write.
