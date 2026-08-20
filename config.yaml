@@ -1,5 +1,5 @@
 baseurl: "https://xie.oskarsh.ru/"
-languageCode: "en-us"
+locale: "en-US"
 title: "xie"
 theme: "forked-xmin"
 googleAnalytics: ""
