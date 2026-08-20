@@ -1,0 +1,50 @@
+baseURL = "https://xie.oskarsh.ru/"
+locale = "en-US"
+title = "xie"
+copyright = "© Oskar Sharipov - 2026 - CC BY-SA 4.0"
+
+theme = "forked-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ['\.Rmd$', '\.Rmarkdown$', '_cache$']
+timeZone = "Asia/Kuala_Lumpur"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "Locations"
+  url = "where/"
+  weight = 2
+
+[[menu.main]]
+  name = "Now"
+  url = "now/"
+  weight = 3
+
+[[menu.main]]
+  name = "Subscribe"
+  url = "index.xml"
+  weight = 4
+
+[params]
+  description = "Blog of Oskar Sharipov."
+  footer = "&copy; Oskar Sharipov - 2026 - [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)"
+
+  [params.author]
+    name = "Oskar Sharipov"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[security]
+  [security.exec]
+    allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^npx$', '^postcss$', '^nvim$']
