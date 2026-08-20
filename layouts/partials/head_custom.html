@@ -4,6 +4,7 @@
 {{ end }}
 {{- with resources.Get "css/syntax.css" }}
     {{- with . | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}">
+        <link href="{{ .RelPermalink}}" rel="stylesheet" as="style" onload="this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="{{ .RelPermalink}}"></noscript>
     {{ end }}
 {{ end }}
