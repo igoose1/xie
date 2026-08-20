@@ -41,7 +41,10 @@ timeZone = "Asia/Kuala_Lumpur"
 
 [markup]
   [markup.highlight]
-    codeFences = false
+    codeFences = true
+    noClasses = false
+    lineNos = false
+    guessSyntax = false
   [markup.goldmark.renderer]
     unsafe = true
 
