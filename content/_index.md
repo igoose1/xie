@@ -1,5 +1,5 @@
 ---
-title: Home
+title:
 ---
 
 This is a web-site of Oskar Sharipov. I'm a digital nomad, Asia traveler,
