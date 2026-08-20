@@ -2,5 +2,8 @@
 {{ with .OutputFormats.Get "rss" }}
   {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
 {{ end }}
-{{ $syntax := resources.Get "css/syntax.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $syntax.RelPermalink }}">
+{{- with resources.Get "css/syntax.css" }}
+    {{- with . | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{ end }}
+{{ end }}
