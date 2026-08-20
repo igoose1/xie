@@ -8,9 +8,17 @@
     {{- else }}
         <title>{{ .Site.Title }}</title>
     {{- end }}
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
-    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
-    {{ partial "head_custom.html" . }}
+    {{- with resources.Get "css/style.css" }}
+        {{- with . | minify | fingerprint }}
+            <link rel="stylesheet" href="{{ .RelPermalink }}">
+        {{ end }}
+    {{ end }}
+    {{- with resources.Get "css/fonts.css" }}
+        {{- with . | minify | fingerprint }}
+            <link rel="stylesheet" href="{{ .RelPermalink }}">
+        {{ end }}
+    {{ end }}
+    {{- partial "head_custom.html" . }}
   </head>
 
   <body>
