@@ -27,11 +27,6 @@ curl -L https://raw.githubusercontent.com/gohugoio/hugo/refs/heads/master/tpl/tp
 Declare a "Content Module" namespace:
 
 ```diff
-diff --git i/layouts/rss.xml w/layouts/rss.xml
-index 2314f42..ee7b2e5 100644
---- i/layouts/rss.xml
-+++ w/layouts/rss.xml
-@@ -31,7 +31,7 @@
         {{- $pages = $pages | first $limit }}
  {{- end }}
  {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
@@ -40,17 +35,11 @@ index 2314f42..ee7b2e5 100644
         <channel>
                 <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
                 <link>{{ .Permalink }}</link>
-
 ```
 
 Add a content into each item:
 
 ```diff
-diff --git i/layouts/rss.xml w/layouts/rss.xml
-index ee7b2e5..eaa48bf 100644
---- i/layouts/rss.xml
-+++ w/layouts/rss.xml
-@@ -61,6 +61,7 @@
                                 {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
                                 <guid>{{ .Permalink }}</guid>
                                 <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
