@@ -6,13 +6,13 @@ tags:
  - 
 ---
 
-RSS is a web-standard for subscribing to web-blogs. You, as a reader, can enter this web-site's URL into a feed reader program and it'll fetch updates. That's how you can subscribe to the blog without social media and "Algorithms".
+RSS is a web-standard for subscribing to blogs. You, a reader, can enter this web-site's URL into a feed reader program and it'll fetch updates. That's how you subscribe to a blog without social medias and "Algorithms".
 
-I use [hugo][hugo] to generate this blog. RSS is included out-of-the box but I never validated it. I checked it a few times from my phone, noticed it my blogs have a correct "description" to each post and it was good enough.
+I use [hugo][hugo] to build pages into something browsers understand. Hugo supports RSS out-of-the-box but I never validated it. I'd checked it a few times from my phone, noticed that my posts have correct "descriptions" and it was good enough.
 
 [hugo]: https://gohugo.io/
 
-I frequently use RSS and I know that the best experience I get from authors who include the whole content into their RSS. I read these blogs without leaving my RSS reader ([Feeder][feeder] on Android). An hour ago, this xie blog didn't include the content but I've just fixed it.
+This time I ran a feed validator and looked closer at how posts are sent to my RSS reader ([Feeder][feeder] on Android). First, I fixed hanging fruits marked by the validator. Second, I started to include full content of posts into the feed. I frequently use RSS and I know that the best experience I get are from authors I can read without leaving my RSS reader. An hour ago, this xie blog didn't include the content but it was easy to fix.
 
 [feeder]: https://f-droid.org/packages/com.nononsenseapps.feeder/
 
@@ -27,8 +27,6 @@ curl -L https://raw.githubusercontent.com/gohugoio/hugo/refs/heads/master/tpl/tp
 Declare a "Content Module" namespace:
 
 ```diff
-        {{- $pages = $pages | first $limit }}
- {{- end }}
  {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 -<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 +<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -51,4 +49,4 @@ Add a content into each item:
 
 Now your posts are fully included into your RSS!
 
-This would be invalid on relative URLs (e.g. images) and maybe breaks on something I haven't thought of but it's a better UX than it used to be. And a new "good enough"!
+This is invalid on relative URLs (e.g. images) and maybe breaks on something else I haven't thought of. Nevertheless, feed readers still can render the rest and it's definitely a better UX than it used to be. And a new "good enough"!
