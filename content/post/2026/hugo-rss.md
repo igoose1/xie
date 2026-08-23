@@ -6,19 +6,19 @@ tags:
  - 
 ---
 
-RSS is a web-standard for subscribing to blogs. You, a reader, can enter this web-site's URL into a feed reader program and it'll fetch updates. That's how you subscribe to a blog without social medias and "Algorithms".
+RSS is a web-standard for subscribing to blogs. You, a reader, can enter this web-site's URL into a RSS feed reader program and it'll fetch updates. That's how you subscribe to a blog without social medias and "Algorithms".
 
-I use [hugo][hugo] to build pages into something browsers understand. Hugo supports RSS out-of-the-box but I never validated it. I'd checked it a few times from my phone, noticed that my posts have correct "descriptions" and it was good enough.
+I, a writer, use [Hugo][hugo] to build pages from something I understand (TXT/Markdown) into something browsers understand (HTML/CSS/JS). By default, Hugo generates RSS feeds but I never validated it. I'd checked it a few times from my phone, noticed that my posts have correct "descriptions" and it was good enough.
 
 [hugo]: https://gohugo.io/
 
-This time I ran a feed validator and looked closer at how posts are sent to my RSS reader ([Feeder][feeder] on Android). First, I fixed hanging fruits marked by the validator. Second, I started to include full content of posts into the feed. I frequently use RSS and I know that the best experience I get are from authors I can read without leaving my RSS reader. An hour ago, this xie blog didn't include the content but it was easy to fix.
+This time I ran a feed validator and looked closer at how posts are sent to my RSS reader ([Feeder][feeder] on Android). First, I fixed hanging fruits marked by the validator. Second, additionally to "descriptions" I started to include full content of posts. I frequently use RSS and I know that the best experience I get are from authors I can read without leaving my RSS reader. An hour ago, this xie blog didn't include the content but it was easy to fix.
 
 [feeder]: https://f-droid.org/packages/com.nononsenseapps.feeder/
 
 To include your blog's content with Hugo, you need to update your `layout/rss.xml`.
 
-Take a copy of the last file:
+Take a copy of the latest available template:
 
 ```sh
 curl -L https://raw.githubusercontent.com/gohugoio/hugo/refs/heads/master/tpl/tplimpl/embedded/templates/rss.xml > layouts/rss.xml
