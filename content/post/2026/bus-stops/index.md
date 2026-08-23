@@ -13,6 +13,7 @@ Living in Kuala Lumpur has pros and cons and I'm not going to list them in this 
 I've had to travel to KL center and back yesterday. For different reasons, I decided to make all trips using public transport only. Here's a bus stop. I stood on the same spot and took pictures from both sides.
 
 ![](stop1.webp)
+
 ![](stop2.webp)
 
 Sorry, I know this all _could_ be one picture. I simply didn't have much space to have a better angle.

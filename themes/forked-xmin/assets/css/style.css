@@ -33,7 +33,7 @@ code { background: #f9f9f9; }
 pre code { background: none; }
 
 /* misc elements */
-img, iframe, video { max-width: 100%; }
+img, iframe, video { max-width: 100%; max-height: 75vh; display: block; margin: auto; }
 main { hyphens: auto; }
 blockquote {
   background: #f9f9f9;
