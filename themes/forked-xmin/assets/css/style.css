@@ -1,8 +1,12 @@
+:root {
+  --width-content: min(75ch, 100%);
+}
+
 body {
-  max-width: 800px;
   margin: auto;
   padding: 1em;
   line-height: 1.5;
+  max-width: var(--width-content);
 }
 
 /* header and footer areas */
@@ -33,7 +37,7 @@ code { background: #f9f9f9; }
 pre code { background: none; }
 
 /* misc elements */
-img, iframe, video { max-width: 100%; max-height: 75vh; display: block; margin: auto; }
+img, iframe, video { max-width: 100%; max-height: 75ex; display: block; margin: auto; }
 main { hyphens: auto; }
 blockquote {
   background: #f9f9f9;
