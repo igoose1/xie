@@ -12,7 +12,9 @@ If you want to know what I'm doing currently, have a look at [my now page][now].
 
 # 2026
 
-* **April 26 -- June 30**: Kuala Lumpur, Malaysia
+* **August 16 -- September 6**: Kuala Lumpur, Malaysia
+* **August 15**: Metro Manila, Philippines
+* **April 26 -- August 15**: Kuala Lumpur, Malaysia
 * **April 25 -- April 26**: Malacca, Malaysia
 * **March 27 -- April 25**: Kuala Lumpur, Malaysia
 * **March 25 -- March 27**: Pulau Kapas, Malaysia
