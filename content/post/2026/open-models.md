@@ -30,6 +30,8 @@ It's mind-blowing that open-weight models compete with frontier models (that's h
 [claude-promotion]: https://news.ycombinator.com/item?id=49348751
 [openai-discounts]: https://news.ycombinator.com/item?id=49337602
 
+Today I had to use a smart model to learn some programming stuff. Claude went down so I switched to Kimi K3. It felt less verbose than Opus 5 and more useful. I learned so much and at the end of the day I paid $1.43 for over 80 requests. That's more expensive than a subsided Claude subscription but less than an alternative usage through Anthropic API.
+
 Open-weight models mean LLMs become a public utility. A Chinese model can run on my laptop and it's better than something you had to pay $200 per month a few years ago. One day everyone can run their own model smarter than current leaders on a box under their table or in a local neighborhood data center. I don't know if LLMs make our world brighter but if we must live in the world of thinking computers then better offer these technologies to every thinking human.
 
 ---
