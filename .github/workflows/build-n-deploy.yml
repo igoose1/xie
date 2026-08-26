@@ -3,7 +3,7 @@ name: Build static site and deploy with ssh
 on:
   push:
     branches:
-      - main
+      - spam
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
