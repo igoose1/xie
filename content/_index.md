@@ -21,4 +21,4 @@ Hit me an email! It's `oskarsh` plus `riseup.net` with `at (@)` in the middle. T
 
 ### This website is best read with Firefox
 
-Please, enable your Ad Block, disable BitTorrent speed limits and AI agents. For better experience, navigate posts listening to Brutalismus 3000 and drinking milk tea. Oskar doesn't hold any responsibilities if you lick outdoor metals in the winter. We value your privacy. We may use cookies and mochi to enhance our tea sessions. By clicking "Accept All", you consent.
+Please, enable your Ad Block, disable BitTorrent client speed limits and power off AI agents. For better experience, navigate posts listening to Brutalismus 3000 and drinking milk tea. Oskar doesn't hold any responsibilities if you lick outdoor metals in the winter. We value your privacy. We may use cookies and mochi to enhance our experience. By clicking "Accept All", you consent.
