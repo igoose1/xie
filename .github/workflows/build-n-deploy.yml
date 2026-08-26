@@ -3,7 +3,7 @@ name: Build static site and deploy with ssh
 on:
   push:
     branches:
-      - spam
+      - doodle
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -11,10 +11,10 @@ concurrency:
 
 jobs:
   deploy:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b  # v3.0.2
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
         with:
           submodules: true
           lfs: true
