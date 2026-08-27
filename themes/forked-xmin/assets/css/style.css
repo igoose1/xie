@@ -7,6 +7,7 @@ body {
   font-family: sans-serif;
   margin: 0 auto;
   max-width: var(--width-content);
+  padding: 0.5em 1em;
 }
 main { hyphens: auto; }
 
