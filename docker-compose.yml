@@ -1,3 +1,5 @@
+name: xie
+
 services:
   blog:
     build: .
