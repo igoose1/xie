@@ -35,6 +35,7 @@ For the first sending, go to your local post office. These are still brick-and-m
 I usually write an address in its local language and then write a country with highlighted English letters. So if I had a friend working at the restaurant in Athens, I'd write:
 
 > Μαύρο Άσπρο άλογο, Απόλλωνος, Αθήνα, 10557
+>
 > **GREECE**
 
 ### What to write?
