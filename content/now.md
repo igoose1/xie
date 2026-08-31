@@ -1,23 +1,29 @@
 ---
 title: What I'm doing now
-date: 2026-07-31
+date: 2026-08-31
 
 slug: "now"
 layout: "now"
 ---
 
-Hi there! That's a new monthly update. Last one was TWO MONTHS ago, oh no! But I have an excuse.
+Hi there!
 
-At the beginning of June my family came to visit us in Malaysia. These were busy weeks, I didn't even have a laptop most of the time. When I noticed this page was stale, I could only jump into the sea. That obviously wouldn't help!
+This month I've been writing blog posts:
 
-In June, we've visited Borneo, KL centre, Penang, and Langkawi. In Borneo, we stayed in Sandakan town and along the Kinabantangan river. I saw orangutans waking up, elephants crossing the river, this and that hornbills, and many others IN THE WILD! Nature is beautiful and needs so much patience, you can't fast-forward a baby-elephant stuck at the entrance to the waters and slow-mo a crocodile hiding in the mud. As for the town, ah, um... That town contrasted with every other town I knew in Malaysia. It felt poorer. Before visiting Sandakan, I only saw so many children begging in Laos and Cambodia.
+- [Lower Expectations](https://xie.oskarsh.ru/post/expectations/)
+- [Include Full Content in RSS with Hugo](https://xie.oskarsh.ru/post/hugo-rss/)
+- [Bus Stops in Kuala Lumpur](https://xie.oskarsh.ru/post/bus-stops/)
+- [Open LLMs](https://xie.oskarsh.ru/post/open-models/)
+- [Postcards](https://xie.oskarsh.ru/post/postcards/)
 
-It was really nice to show Kuala Lumpur and Georgetown to my family. We ate everything I planned to introduce them to, we hiked the Penang Hill (ending with the nicest ice cream at the top of the hill), I learned more Malay to ensure my mother always gets a cup of tea the way she likes. The biggest highlight is that my parents loved durian! I already updated our ["Durian Friends" page][df].
+I don't know how long I'll be doing it but I'm happy I at least wrote this! I decided I'll write and publish no matter how happy I'm with a style or content. This removed the blocker I had for writing in English. I already noticed first versions of the posts are lower-quality but I edit and publish updates in the next days and then I get satisfied. If you want, you can subscribe to the blog with RSS. Maybe later I'll syndicate to popular platforms.
 
-[df]: https://duriantruck.com/Durian/Friends
+This month I visited Philippines. It's funny because _technically_ I visited it twice but in reality I can only say I've been outside of the airport for less than 8 hours. These were short gigs we made with Tzeyu.
 
-Our trip ended with the drive to Kuala Kedah and a journey to Langkawi. I was nervous our accommodation would be problematic and beach wouldn't be suitable for swimming. In fact, accommodation was comfortable for everyone in the group and we found a nicer beach in a walking distance. Still, we had a challenge to find a diner in Friday when everything is closed... But I can easily forget all of it after visiting duty-free stores.
+In that limited time when we were free, we've been lucky enough to try local food: sizzling sisig (pork dish with calamansi and onions), sinigang (sour broth soup with milkfish), kare-kare (peanut-based stew with eggplant and string beans), pares rice and mami (braised pork beef stew). Filipino cuisine differs from what we tried before. It's sourer and heavier for us, and seems like they don't use chili peppers much. I feel we should try more because I still didn't find a dish I want to come back for.
 
-That's all for now! My family has left, I still have to return the house to its productive state (tables are all over the place). I have a long backlog of things to do and even longer list of Russian snacks I have to eat up before the ants. Also, a job... I'm searching for a project to work at. Hit me up if you have something interesting.
+However, I found special snacks in Philippines! There are Cloud9 chocolate bars and Piattos potato chips. Both seemed cheap even compared to local prices. A bowl of pares costed us 60--80 piso and a Cloud9 peanut butter bar costs 9 piso and brings thrice more joy. I've loved them a lot and stashed Cloud9 home.
 
-I want to write more in the blog here. Something always blocks me. I feel I have to lower standards and just write.
+Now I'm actively interviewing and preparing for interviews. I'm studying more structurally now. I've got Anki cards, re-learn basics and learn much. Traveling in plane helps with studying too. When there's no internet and notifications, you can only grind pre-downloaded music and listen to Anki cards.
+
+Next week we go to the Northern Vietnam. That's a good place but if I had a choice I'd prefer staying at our comfortable apartment in Kuala Lumpur. I hope this travel will be short and we return soon.
