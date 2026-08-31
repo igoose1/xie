@@ -9,3 +9,7 @@ xie.oskarsh.ru
 [hugo]: https://gohugo.io/
 [xmin]: https://github.com/yihui/hugo-xmin
 [Yihui]: https://yihui.org/en/about/
+
+# License
+
+All content written by me is distributed under CC BY-SA 4.0. See LICENSE.txt for a copy of it.
